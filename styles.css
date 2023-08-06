@@ -1,0 +1,11 @@
+img {
+    border-radius: 50%;
+}
+
+p {
+    font-weight: bold;
+}
+
+#education ul li {
+    list-style: none;
+}
